@@ -1,0 +1,420 @@
+{
+  "checkedDate": "2026-10-08",
+  "documentDate": "2026-06-08",
+  "publisher": "Ville de Laval",
+  "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf",
+  "sourceSha256": "c35f2b313001197aa9346238661a53f20cc8750f122b1839daa6eefe757cc9c2",
+  "scope": "English summaries of CDU Title 7 intention sections, shared by all zones with that milieu type. Not summaries of individual exception grids or development rights.",
+  "types": {
+    "T1.1": {
+      "code": "T1.1",
+      "title": "Conservation-focused natural areas",
+      "summary": "Woods, wetlands, waterways and meadows with important ecological value. The focus is protecting nature and supporting low-impact access, learning and outdoor recreation.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=395",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T1 Naturel », le type de milieux T1.1 est caractérisé par la présence d’ensembles naturels comportant une valeur écologique. Ce type de milieux présente une densité d’éléments écologiques d’intérêt, incluant notamment des bois, des friches arbustives, des cours d’eau, des milieux humides et des prairies herbacées. Il correspond principalement aux limites de l’affectation « conservation » du SADR, mais aussi à d’autres territoires comportant une valeur écologique, telles certaines emprises de lignes de transport électrique. Dans ce type de milieux, la réglementation applicable vise à protéger, à conserver et à mettre en valeur de manière durable les milieux naturels du territoire. Les seuls aménagements et constructions autorisés sont ceux nécessaires à l’accessibilité et aux activités d’interprétation, d’observation, de recher che scientifique, d’éducation et de récréation extensive en nature ainsi que certaines interventions nécessaires pour la mise en place d’infrastructures d’utilités publiques et leur entretien.",
+      "pdfPage": 395,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-2-t1-naturel/"
+    },
+    "T1.2": {
+      "code": "T1.2",
+      "title": "Protected nature with small settled pockets",
+      "summary": "Ecologically sensitive natural areas that include small existing settled pockets. The focus is conserving nature while accommodating compatible, low-impact activity and carefully consolidating existing residential areas.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=404",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T1 Naturel », le type de milieux T1.2 est caractérisé par la présence d’ensembles naturels comportant une valeur écologique. Ponctué d’entités urbanisées de superficies restreintes, ce type de milieux présente une densité d’éléments écologiques d’intérêt, incluant notamment des bois, des friches arbustives, des cours d’eau, des milieux humides et des prairies herbacées. Il correspond aux limites de l’affectation « protection » du SADR et à certains autres milieux écologiques sensibles. Dans ce type de milieux, la réglementation applicable vise à protéger, à conserver et à mettre en valeur de manière durable les milieux naturels et à permettre des usages compatibles. Les aménagements et constructions permettant l’accès et les activités d’interprétation, d’observation, de recherche scientifique, d’éducation et de récréation extensive en nature sont autorisés. L’habitation de faible impact y est exceptionnellement permise, aux fins de consolidation de secteurs résidentiels existants.",
+      "pdfPage": 404,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-2-t1-naturel/"
+    },
+    "T2.1": {
+      "code": "T2.1",
+      "title": "Farms, fields and woodland corridors",
+      "summary": "Land in the permanent agricultural zone, characterized by crops, livestock, woods and forest corridors. The focus is keeping agriculture viable and protecting rural landscapes and heritage.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=413",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T2 Agricole », le type de milieux T2.1 est caractérisé par des terres en culture, de l’élevage, ainsi que des bois et corridors forestiers d’intérêt métropolitain. Ce type de milieux constitue la zone agricole permanente. Il corres pond, sauf exception, aux affectations « agricole » et « agricole et conservation » du SADR. Dans ce type de milieux, la réglementation applicable vise à assurer la protection de la fonction agricole et sa mise en valeur. Les activités agricoles y sont autorisées sous un régime normatif plus souple qu’en milieu urbain afin d’assurer la pérennité et d’encourager le déploiement de l’agriculture sur le territoire lavallois. La forme bâtie y est encadrée pour maintenir et améliorer les qualités paysagères et patrimoniales.",
+      "pdfPage": 413,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-3-t2-agricole/"
+    },
+    "T2.2": {
+      "code": "T2.2",
+      "title": "Smaller farming areas near the city",
+      "summary": "Generally smaller agricultural areas close to urban neighborhoods, often surrounded by the urban area. The focus is protecting farming and rural character while managing coexistence with nearby homes; the intent distinguishes these areas from livestock-oriented farming.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=423",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T2 Agricole », le type de milieux T2.2 est composé de zones situées à proximité de milieux urbains et généralement de plus faible superficie que celles du type de milieux T2.1. Ce type de milieux se situe à l’intérieur de la zone agricole permanente, généralement au sein d’inclusions agricoles situées à l’intérieur du périmètre d’urbanisation. Dans ce type de milieux, la réglementation applicable vise à assurer la protection de la fonction agricole et sa mise en valeur. Les activités agricoles, à l’exception de l’élevage, y sont autorisées sous un régime normatif plus souple qu’en milieu urbain afin d’assurer la pérennité et d’encourager le déploiement de l’agriculture sur le territoire lavallois tout en favorisant une saine cohabitation avec les milieux urbains avoisinants. La forme bâtie y est encadrée pour maintenir et améliorer les qualités paysagères et patrimoniales.",
+      "pdfPage": 423,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-3-t2-agricole/"
+    },
+    "T2.3": {
+      "code": "T2.3",
+      "title": "Mixed non-farming pockets in agricultural land",
+      "summary": "Small pockets of mixed buildings and non-farming activities within the permanent agricultural zone, shaped by development over time. The intent is to contain these non-agricultural pockets and protect the surrounding farmland.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=433",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T2 Agricole », le type de milieux T2.3 est caractérisé par la présence de regroupements hétérogènes de bâtiments et d’activités autres qu’agricoles au sein de la zone agricole permanente. Ce sont des entités ponctuelles de superficies restreintes, déstructurées par l'addition, au fil du temps, d'usages non agricoles et à l'intérieur desquelles subsistent un certain nombre de lots vacants enclavés et irrécupérables pour l'agriculture. Il correspond aux aires déstruc turées identifiées au SADR. La réglementation applicable vise à confiner les usages autres qu’agricoles dans ce type de milieux afin de préserver l’intégrité du reste du territoire agricole.",
+      "pdfPage": 433,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-3-t2-agricole/"
+    },
+    "T3.1": {
+      "code": "T3.1",
+      "title": "Large detached homes on spacious green lots",
+      "summary": "Neighborhoods of large single-family homes on large lots, notably in Laval-sur-le-Lac and along boulevard Mattawa. The focus is retaining leafy grounds, space around homes and the area's established residential character.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=443",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T3 Suburbain », le type de milieux T3.1 est caractérisé par des ensembles d’habitation d’un logement pavillonnaires de grandes dimensions sur des terrains de grande superficie. Malgré une architecture variée issue de différentes époques de construction, le type de milieux se compose d’ensembles suburbains à l’implantation, au gabarit et à la typologie homogènes. Il correspond principalement aux secteurs de Laval-sur-le-Lac et du boulevard Mattawa. Dans ce type de milieux, la réglementation applicable vise à préserver le caractère verdoyant des terrains, le dégagement et la prestance des résidences.",
+      "pdfPage": 443,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-4-t3-suburbain/"
+    },
+    "T3.2": {
+      "code": "T3.2",
+      "title": "Large suburban homes with prominent garages",
+      "summary": "Mostly newer suburban neighborhoods where large single-family homes occupy much of their lots, with prominent roofs, garages and paved parking. The intent is to retain the established building form while adding greenery and reducing runoff.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=453",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T3 Suburbain », le type de milieux T3.2 est caractérisé par des ensembles d’habitation d’un logement pavillonnaires de grandes dimensions occupant une grande proportion du terrain. Principalement issu du développement résidentiel des années 1980 à aujourd’hui, ce type de milieux se compose d’ensembles suburbains dont les volumétries et les pentes de toit accentuent la hauteur des bâtiments. Le gabarit imposant des garages et la superficie des aires de stationnement caractérisent la forme et l’aménagement des terrains. Dans ce type de milieux, la réglementation applicable vise à reconnaitre les spécificités de la forme bâtie existante, à assurer le maintien de la forme et a pour objectif une augmentation du verdissement et une réduction de l’eau de ruissellement.",
+      "pdfPage": 453,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-4-t3-suburbain/"
+    },
+    "T3.3": {
+      "code": "T3.3",
+      "title": "Established low-rise, leafy suburbs",
+      "summary": "Postwar suburban neighborhoods of low, often rectangular detached or semi-detached homes, with mature trees, green front yards and relatively small parking areas. The focus is preserving that character during renovations and infill.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=465",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T3 Suburbain », le type de milieux T3.3 est caractérisé par des ensembles d’habitation d’un logement présentant un plan généralement rectangulaire et une faible hauteur. Principalement issu des premières phases de développement suburbain d’après-guerre, ce type de milieux se compose de bâtiments isolés et jumelés d’un à 2 étages. La faible superficie des aires de stationnement, les cours avant végétalisées et l’abondance d’arbres matures caractérisent la forme et l’aménagement. Dans ce type de milieux, la réglementation applicable vise à maintenir les spécificités de la forme bâtie existante et de l’aménagement des terrains et a pour objectif d’assurer la préservation du caractère du milieu lors de projets de rénovation ou d’insertion.",
+      "pdfPage": 465,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-4-t3-suburbain/"
+    },
+    "T3.4": {
+      "code": "T3.4",
+      "title": "Small homes with gentle neighborhood growth",
+      "summary": "A mix of small detached and semi-detached homes and small two- or three-home buildings. The intent supports gradual, compact neighborhood evolution while keeping building scale modest and front yards greener.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=477",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T3 Suburbain », le type de milieux T3.4 est caractérisé par une diversité de typologies de bâtiments d’habitation de petits gabarits. Le type de milieux se compose d’habitations d’un logement isolées et jumelées, d’un à 2 étages, ainsi que d’habitations de 2 à 3 logements de 2 étages. Dans ce type de milieux, la réglementation applicable vise à permettre une densification douce et une évolution vers une forme plus compacte. Elle assure la qualité des projets de développement ou de redéveloppement en limitant la hauteur et les typologies permises, tout en limitant la minéralisation de la cour avant dans une perspective d’augmentation du verdissement et de réduction de l’eau de ruissellement.",
+      "pdfPage": 477,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-4-t3-suburbain/"
+    },
+    "T3.5": {
+      "code": "T3.5",
+      "title": "Tall, narrow single-family homes",
+      "summary": "Neighborhoods of tall, narrow single-family homes, often from the 2000s, on narrow lots with front-yard parking. The focus is recognizing these proportions while improving street-facing design, greenery and rainwater management.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=487",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T3 Suburbain », le type de milieux T3.5 est caractérisé par des ensembles d’habitation d’un logement haute et étroite. Principalement issu du développement résidentiel des années 2000, ce type de milieux se compose de bâtiments allant jusqu’à 3 étages et présentant un rapport hauteur/largeur élevé. L’étroitesse des terrains ainsi que la présence d’aires de stationnement en cour avant engendrent une forte minéralisation des terrains. Dans ce type de milieux, la réglementation applicable vise à reconnaitre les particularités de la forme bâtie en termes de proportion. Elle vise à permettre une meilleure interface avec l’espace public pour les nouvelles constructions et a pour objectif une amélioration de l’aménagement des cours avant dans une perspective d’augmentation du verdissement et de réduction de l’eau de ruissellement.",
+      "pdfPage": 487,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-4-t3-suburbain/"
+    },
+    "T4.1": {
+      "code": "T4.1",
+      "title": "Low-rise detached and semi-detached housing",
+      "summary": "Urban neighborhoods characterized by low-rise detached and semi-detached housing. The intent allows gradual neighborhood evolution while respecting older areas, keeping building scale in check and improving green front yards.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=497",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T4 Urbain », le type de milieux T4.1 est caractérisé par des ensembles de bâtiments d’habitation isolés et jumelés d’au plus 2 étages. Dans ce type de milieux, la réglementation applicable vise à permettre une densification douce et une évolution. Elle assure dans certains cas le maintien des caractéristiques des secteurs denses plus anciens et dans d’autres cas la qualité des projets de développement ou de redéveloppement. Elle vise également à limiter la hauteur et la largeur des bâtiments, ainsi qu’à minimiser la minéralisation de la cour avant dans une perspective d’augmentation du verdissement et de réduction de l’eau de ruissellement.",
+      "pdfPage": 497,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-5-t4-urbain/"
+    },
+    "T4.2": {
+      "code": "T4.2",
+      "title": "Established row-house neighborhoods",
+      "summary": "Mostly attached single-family homes, with some detached or semi-detached homes; front-yard parking is a defining existing feature. The focus is recognizing established conditions while improving landscaping and greenery.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=508",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T4 Urbain », le type de milieux T4.2 est principalement caractérisé par des ensembles de bâtiments d’habitation d’un logement contigus, mais peut aussi présenter des bâtiments d’habitation d’un logement isolés ou jumelés. Le type de milieux se compose de bâtiments allant jusqu’à 3 étages. Dans le cas de bâtiments contigus, la présence d’aires de stationnement en cour avant engendre une forte minéralisation des terrains. Dans ce type de milieux, la régle mentation applicable vise à reconnaitre les situations existantes tout en assurant des améliorations de l’aménagement des cours dans une perspective de verdissement.",
+      "pdfPage": 508,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-5-t4-urbain/"
+    },
+    "T4.3": {
+      "code": "T4.3",
+      "title": "Compact row-house areas and newer projects",
+      "summary": "Primarily attached single-family housing, with some detached or semi-detached homes, often in newer neighborhoods or projects. The intent favors compact development and greener street-facing yards rather than front-yard parking.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=519",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T4 Urbain », le type de milieux T4.3 est caractérisé par des ensembles de bâtiments d’habitation d’un logement contigus, mais peut aussi présenter des bâtiments d’habitation d’un logement isolés ou jumelés. Le type de milieux se compose de bâtiments allant jusqu’à 3 étages. Dans ce type de milieux, la réglementation applicable vise à permettre une densification et une évolution vers une forme plus compacte. Elle assure aussi la bonne réalisation de projets de bâtiments contigus en prohibant les stationnements en cour avant dans une perspective d’augmentation du verdissement et de réduction de l’eau de ruissellement. Ce type de milieux correspond principalement à des secteurs récemment construits ou à de nouveaux projets immobiliers.",
+      "pdfPage": 519,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-5-t4-urbain/"
+    },
+    "T4.4": {
+      "code": "T4.4",
+      "title": "Mixed low-rise housing with room to evolve",
+      "summary": "A varied mix of detached, semi-detached and attached residential buildings. The intent supports compact neighborhood growth while retaining smaller-scale building patterns, managing transitions to quieter areas and adding greenery.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=530",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T4 Urbain », le type de milieux T4.4 est caractérisé par des ensembles de bâtiments d’habitation isolés, jumelés et contigus d’au plus 3 étages. Dans ce type de milieux, la réglementation applicable vise principalement le maintien et la reconnaissance de secteurs hétérogènes existants, ainsi qu’à permettre une densification et une évolution de ceux-ci. Elle assure aussi une flexibilité permettant des projets denses et compacts et favorise le maintien d’un grain bâti fin en limitant la largeur des bâtiments et en modulant les plans de façades principales. La réglementation vise à assurer une bonne cohabitation avec des types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons ayant pour effet de maintenir des distances adéquates entre les bâtiments. Elle a également pour objectif de minimiser la minéralisation de la cour avant dans une perspective d’augmentation du verdissement et de réduction de l’eau de ruissellement.",
+      "pdfPage": 530,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-5-t4-urbain/"
+    },
+    "T4.5": {
+      "code": "T4.5",
+      "title": "Walkable mixed-use urban neighborhoods",
+      "summary": "Human-scale neighborhoods with a mix of activities and building forms. The focus is a more compact urban setting, livelier public spaces, comfortable walking, less parking impact and greener yards.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=541",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T4 Urbain », le type de milieux T4.5 est caractérisé par des ensembles urbains d’usages mixtes, conviviaux et à échelle humaine. Le type de milieux se compose de bâtiments isolés, jumelés et contigus d’au plus 3 étages. Dans ce type de milieux, la réglementation applicable vise à favoriser la transformation vers une forme plus compacte et urbaine. Elle assure une meilleure interface avec l’espace public et une minimisation de l’impact des aires de stationnement. Elle a également pour objectif l’amélioration de l’aménagement des cours avant dans une perspective d’animation de l’espace public, de convivialité des déplacements piétons, d’augmentation du verdissement et de réduction de l’eau de ruissellement. La réglementation vise aussi à permettre des projets denses et compacts et favorise le maintien d’un grain bâti fin en limitant la largeur des bâtiments et en modulant les plans de façades principales. Elle favorise une bonne cohabitation avec des types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons.",
+      "pdfPage": 541,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-5-t4-urbain/"
+    },
+    "T4.6": {
+      "code": "T4.6",
+      "title": "Historic mixed-use neighborhoods",
+      "summary": "Older urban areas of heritage interest, with mixed activities and modest detached or semi-detached buildings. The focus is fitting new work into the historic building pattern and improving the relationship between buildings, front yards and the street.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=553",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T4 Urbain », le type de milieux T4.6 est caractérisé par des ensembles urbains d’intérêt patrimonial, d’usages mixtes, conviviaux et à échelle humaine. Le type de milieux se compose de bâtiments isolés et jumelés, d’au plus 2 étages. Dans ce type de milieux, la réglementation applicable vise à reconnaitre les particularités typomorpholo giques des plus vieux ensembles urbains du territoire lavallois. Elle vise à assurer une bonne intégration des projets d’insertion, une meilleure interface avec l’espace public et une amélioration de l’aménagement des cours avant dans une perspective d’animation de l’espace public et de convivialité des déplacements piétons. La réglementation vise également à encadrer les agrandissements et les projets d’insertion et favorise le maintien d’un grain bâti fin en limitant la largeur des bâtiments et en modulant les plans de façades principales.",
+      "pdfPage": 553,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-5-t4-urbain/"
+    },
+    "T5.1": {
+      "code": "T5.1",
+      "title": "Medium-density apartment neighborhoods",
+      "summary": "A mix of medium-density residential buildings, predominantly lower-rise apartment buildings with parking at the side or rear. The focus is improving street-facing design, façades and landscaped yards while recognizing the existing building pattern.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=565",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T5 Urbain compact », le type de milieux T5.1 est caractérisé par une diversité de typologies de bâtiments d’habitation de moyenne densité. Il se compose majoritairement de bâtiments de conciergerie d’au plus 4 étages avec des aires de stationnement principalement situées en cour latérale ou arrière. Dans ce type de milieux,la réglementation appli cable vise à reconnaitre les situations existantes tout en assurant des améliorations. Elle favorise une meilleure interface avec l’espace public, une articulation des façades principales et une minimisation de l’impact des aires de stationnement. Elle a aussi pour objectif une amélioration de l’aménagement des cours dans une perspective de verdissement. Ce type de milieux conçu également pour s’appliquer à des projets de développement ou de redéveloppement où cette forme urbaine est souhaitée.",
+      "pdfPage": 565,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-6-t5-urbain-compact/"
+    },
+    "T5.2": {
+      "code": "T5.2",
+      "title": "Medium- to higher-density housing",
+      "summary": "A variety of residential buildings with medium to higher density, generally larger than the T5.1 pattern. The intent seeks better building façades, greener grounds and less impact from parking.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=576",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T5 Urbain compact », le type de milieux T5.2 est caractérisé par une diversité de typologies de bâtiments d’habitation de moyenne à forte densité. Il se compose majoritairement de bâtiments d’au plus 6 étages. Dans ce type de milieux, la réglementation applicable vise à reconnaitre les situations existantes tout en assurant des améliorations. Elle favorise une meilleure interface avec l’espace public, une articulation des façades principales et une minimisation de l’impact des aires de stationnement. Elle a aussi pour objectif une amélioration de l’aménagement des cours dans une perspective de verdissement. Ce type de milieux est conçu également pour s’appliquer à des projets de développement ou de redéveloppement où cette forme urbaine est souhaitée.",
+      "pdfPage": 576,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-6-t5-urbain-compact/"
+    },
+    "T5.3": {
+      "code": "T5.3",
+      "title": "High-rise residential areas",
+      "summary": "Residential areas characterized mainly by tall apartment towers. The focus is improving how towers meet public spaces, reducing the impact of parking and adding greenery around buildings.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=587",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T5 Urbain compact », le type de milieux T5.3 est caractérisé par la présence de bâtiments d’habitation de grande hauteur. Il se compose majoritairement de tours d’au plus 15 étages. Dans ce type de milieux, la réglementation applicable vise à reconnaitre les situations existantes tout en assurant des améliorations. Elle favorise une meilleure interface avec l’espace public, une articulation des façades principales et une minimisation de l’impact des aires de station nement. Elle a aussi pour objectif une amélioration de l’aménagement des terrains dans une perspective de verdissement.",
+      "pdfPage": 587,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-6-t5-urbain-compact/"
+    },
+    "T6.1": {
+      "code": "T6.1",
+      "title": "Mixed-use corridors and transit areas",
+      "summary": "Mixed-use urban areas along major streets or in some transit-oriented development areas. The focus is a compact, people-friendly setting supported by walking, cycling, public transit and a varied commercial offering.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=601",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T6 Centralité urbaine », le type de milieux T6.1 est caractérisé par des ensembles urbains mixtes, conviviaux, principalement articulés autour d’artères structurantes ou situés dans certaines des aires TOD. S’appuyant sur la mobilité active et le transport collectif, il comprend ou peut comprendre une offre commerciale variée. D’une intensité de moyenne à forte, il se compose de bâtiments isolés, jumelés et contigus d’au plus 6 étages. Dans ce type de milieux, la réglementation applicable vise à favoriser la transformation du milieu vers une forme urbaine plus compacte et à échelle humaine. Elle assure une meilleure interface avec l’espace public et une minimisation de l’impact des aires de stationnement. Elle a également pour objectif l’amélioration de l’aménagement des cours dans la perspective de favoriser des projets misant sur la mobilité active, l’animation de l’espace public et la convivialité des lieux. Elle vise aussi à préserver une bonne cohabitation avec les types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons et d’un plan angulaire assurant des retraits et des distances adéquates entre les bâtiments.",
+      "pdfPage": 601,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-7-t6-centralit%C3%A9-urbaine/"
+    },
+    "T6.2": {
+      "code": "T6.2",
+      "title": "High-intensity mixed-use centers",
+      "summary": "Busy mixed-use urban areas with varied buildings and a generally taller character than T6.1. The intent favors compact, human-scale places, active public spaces, greener grounds and careful transitions to quieter neighborhoods.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=613",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T6 Centralité urbaine », le type de milieux T6.2 est caractérisé par des ensembles urbains mixtes de forte intensité. Le type de milieux se compose de bâtiments de gabarit et d’implantation variés et de hauteurs de 2 à 8 étages. Dans ce type de milieux, la réglementation applicable vise à favoriser la transformation vers une forme urbaine très compacte et à échelle humaine. Elle assure une meilleure interface avec l’espace public et une minimisation de l’impact des aires de stationnement extérieures. Elle a également pour objectif l’amélioration de l’aménagement des cours dans une perspective de mobilité active, d’animation de l’espace public, de convivialité des lieux, d’augmentation du verdissement et de réduction de l’eau de ruissellement. Elle vise aussi à préserver une bonne cohabitation avec les types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons et d’un plan angulaire assurant des retraits et des distances adéquates entre les bâtiments.",
+      "pdfPage": 613,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-7-t6-centralit%C3%A9-urbaine/"
+    },
+    "T6.3": {
+      "code": "T6.3",
+      "title": "Very intensive mixed-use centers",
+      "summary": "Very intensive mixed-use urban areas with varied building forms. The focus is compact, human-scale development, active and welcoming public spaces, greenery and reduced runoff, with protection for lower-intensity neighbors.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=625",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T6 Centralité urbaine », le type de milieux T6.3 est caractérisé par des ensembles urbains mixtes de très forte intensité. Le type de milieux se compose de bâtiments de gabarit et d’implantation variés et de hauteurs de 2 à 10 étages. Dans ce type de milieux, la réglementation applicable vise à favoriser la transformation vers une forme urbaine très compacte et à échelle humaine. Elle assure une meilleure interface avec l’espace public et une minimisation de l’impact des aires de stationnement extérieures. Elle a également pour objectif l’amélioration de l’aménagement des cours dans une perspective de mobilité active, d’animation de l’espace public, de convivialité des lieux, d’augmentation du verdissement et de réduction de l’eau de ruissellement. Elle vise aussi à préserver une bonne cohabitation avec les types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons et d’un plan angulaire assurant des retraits et des distances adéquates entre les bâtiments.",
+      "pdfPage": 625,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-7-t6-centralit%C3%A9-urbaine/"
+    },
+    "T6.4": {
+      "code": "T6.4",
+      "title": "Very intensive centers with taller buildings",
+      "summary": "Very intensive mixed-use urban areas with a taller building profile than T6.3 in the official character description. The focus remains walkable public spaces, reduced outdoor-parking impact, greenery and sensitive transitions to surrounding neighborhoods.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=638",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T6 Centralité urbaine », le type de milieux T6.4 est caractérisé par des ensembles urbains mixtes de très forte intensité. Le type de milieux se compose de bâtiments de gabarit et d’implantation variés et de hauteurs de 2 à 15 étages. Dans ce type de milieux, la réglementation applicable vise à favoriser la transformation vers une forme urbaine très compacte et à échelle humaine. Elle assure une meilleure interface avec l’espace public et une minimisation de l’impact des aires de stationnement extérieures. Elle a également pour objectif l’amélioration de l’aménagement des cours dans une perspective de mobilité active, d’animation de l’espace public, de convivialité des lieux, d’augmentation du verdissement et de réduction de l’eau de ruissellement. Elle vise aussi à préserver une bonne cohabitation avec les types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons et d’un plan angulaire assurant des retraits et des distances adéquates entre les bâtiments.",
+      "pdfPage": 638,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-7-t6-centralit%C3%A9-urbaine/"
+    },
+    "T6.5": {
+      "code": "T6.5",
+      "title": "Very intensive centers with the tallest profile",
+      "summary": "Very intensive mixed-use urban areas with the tallest building profile among the T6 milieu descriptions. The intent emphasizes compact, human-scale public spaces, greenery, less parking impact and coexistence with lower-intensity surroundings.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=651",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « T6 Centralité urbaine », le type de milieux T6.5 est caractérisé par des ensembles urbains mixtes de très forte intensité. Le type de milieux se compose de bâtiments de gabarit et d’implantation variés et de hauteurs de 2 à 25 étages. Dans ce type de milieux, la réglementation applicable vise à favoriser la transformation vers une forme urbaine très compacte et à échelle humaine. Elle assure une meilleure interface avec l’espace public et une minimisation de l’impact des aires de stationnement extérieures. Elle a également pour objectif l’amélioration de l’aménagement des cours dans une perspective de mobilité active, d’animation de l’espace public, de convivialité des lieux, d’augmentation du verdissement et de réduction de l’eau de ruissellement. Elle vise aussi à préserver une bonne cohabitation avec les types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons et d’un plan angulaire assurant des retraits et des distances adéquates entre les bâtiments.",
+      "pdfPage": 651,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-7-t6-centralit%C3%A9-urbaine/"
+    },
+    "CI.1": {
+      "code": "CI.1",
+      "title": "Places of worship in quieter neighborhoods",
+      "summary": "Sites mainly occupied by existing places of worship within low- or medium-density neighborhoods. The intent recognizes their distinctive architecture and siting while respecting the surrounding area.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=664",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « CI Institutionnel », le type de milieux CI.1 a pour objectif de reconnaitre les particularités architecturales, de forme et d’implantation de certains bâtiments et espaces à vocation publique ou semi-publique et de leur permettre d’être distinctifs dans leur milieu d’insertion. Il s’applique principalement à des sites occupés par des lieux de culte existants et insérés à même des secteurs de faible ou de moyenne densité. Ce type de milieux est caractérisé par des bâtiments publics et institutionnels dont l’implantation et l’architecture peuvent se démarquer du tissu urbain environnant compte tenu de la vocation actuelle ou patrimoniale de ce lieu. Dans ce type de milieux, la réglementation applicable vise à offrir la flexibilité nécessaire pour reconnaitre ce caractère exceptionnel, tout en limitant les usages pouvant être exercés et le nombre maximal d’étages autorisé en respect du milieu environnant.",
+      "pdfPage": 664,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-8-ci-institutionnel/"
+    },
+    "CI.2": {
+      "code": "CI.2",
+      "title": "Local schools and community facilities",
+      "summary": "Sites mainly occupied by schools, childcare facilities, libraries and other non-worship community institutions in low- or medium-density areas. Their buildings can stand out from nearby housing, with an emphasis on fitting the local context.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=673",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « CI Institutionnel », le type de milieux CI.2 a pour objectif de reconnaitre les particularités architecturales, de forme et d’implantation de certains bâtiments et espaces à vocation publique ou semi-publique et de leur permettre d’être distinctifs dans leur milieu d’insertion. Il s’applique principalement à des sites occupés par des usages institutionnels ou communautaires, tels qu’une école, une garderie ou une bibliothèque, à même des secteurs de faible ou de moyenne densité. Ce type de milieux est caractérisé par des bâtiments publics et institutionnels autres que des lieux de culte dont l’implantation et l’architecture peuvent se démarquer du tissu urbain environnant compte tenu de la vocation actuelle ou patrimoniale de ce lieu. Dans ce type de milieux, la réglementation applicable vise à offrir la flexibilité nécessaire pour reconnaitre ce caractère exceptionnel, tout en limitant les usages pouvant être exercés et le nombre maximal d’étages autorisé en respect du milieu environnant, mais de façon moins restrictive que le type de milieux CI.1.",
+      "pdfPage": 673,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-8-ci-institutionnel/"
+    },
+    "CI.3": {
+      "code": "CI.3",
+      "title": "Larger institutional and community sites",
+      "summary": "Institutional or community sites such as schools, hospitals, libraries and places of worship in compatible settings, including denser areas and major streets. The intent recognizes their distinctive buildings and the flexibility needed for their public role.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=682",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « CI Institutionnel », le type de milieux CI.3 a pour objectif de reconnaitre les particularités architecturales, de forme et d’implantation de certains bâtiments et espaces à vocation publique ou semi-publique et de leur permettre d’être distinctifs dans leur milieu d’insertion. Il s’applique principalement à des sites occupés par des usages institutionnels ou communautaires, tels qu’une école, une garderie, une bibliothèque, un hôpital ou un lieu de culte, dans des secteurs compatibles avec une telle utilisation du sol et forme urbaine, notamment des secteurs de forte densité ou le long de voies de circulation collectrices ou artérielles. Ce type de milieux est caractérisé par des bâtiments publics et institutionnels dont l’implantation et l’architecture peuvent se démarquer du tissu urbain environnant compte tenu de la vocation actuelle ou patrimoniale de ce lieu. Dans ce type de milieux, la réglementation applicable vise à offrir la flexibilité nécessaire pour reconnaitre ce caractère exceptionnel.",
+      "pdfPage": 682,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-8-ci-institutionnel/"
+    },
+    "CE": {
+      "code": "CE",
+      "title": "Parks and generally unbuilt open spaces",
+      "summary": "Land generally intended to remain unbuilt, such as parks, public open spaces and cemeteries. The intent recognizes the special role of these open areas within the city.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=691",
+      "sourceScope": "subtype",
+      "evidence": "Le type de milieux « Espace ouvert » CE a pour objectif de reconnaitre la particularité de certains terrains dont la vocation est de demeurer généralement non construits, tels que des parcs, des espaces publics et des cimetières et de leur permettre de se distinguer de l’environnement urbain. Dans ce type de milieux, la réglementation vise à offrir la flexibilité nécessaire pour reconnaitre ce caractère exceptionnel.",
+      "pdfPage": 691,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-9-ce-espace-ouvert/"
+    },
+    "ZM": {
+      "code": "ZM",
+      "title": "Existing mobile-home parks",
+      "summary": "Existing mobile-home parks with distinctive homes, layouts and site improvements. The rules recognize those particular building and site characteristics.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=700",
+      "sourceScope": "subtype",
+      "evidence": "Le type de milieux « Zone de maisons mobiles » ZM vise à encadrer les parcs de maisons mobiles existants. La réglemen tation applicable reconnaît ces bâtiments particuliers, leur architecture, leur implantation et les aménagements de terrain associés.",
+      "pdfPage": 700,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-10-zm-maisons-mobiles/"
+    },
+    "ZC": {
+      "code": "ZC",
+      "title": "Large-format commercial areas",
+      "summary": "Clusters of commercial buildings, often large stores set toward the back of lots with extensive parking. The focus is strengthening existing commercial centers while improving outdoor spaces, reducing heat islands and managing rainwater.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=708",
+      "sourceScope": "subtype",
+      "evidence": "Le type de milieux « Zone commerciale » ZC est caractérisé par la présence d’ensembles de bâtiments commerciaux, souvent de grande surface, implantés principalement en fond de lot et au sein d’importantes aires de stationnement. Ils correspondent à l’affectation « commerciale régionale » du SADR, ainsi qu’à certains autres secteurs commerciaux. Dans ce type de milieux, la réglementation vise à reconnaitre les particularités de la forme bâtie et à offrir une flexibilité permettant la consolidation, tout en améliorant les aménagements extérieurs, et ce, afin de notamment réduire les îlots de chaleur urbains et la quantité d’eau de ruissellement. Elle vise aussi à concentrer et à consolider l’offre commerciale régionale dans les pôles régionaux existants et le long des axes autoroutiers ou routiers structurants.",
+      "pdfPage": 708,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-11-zc-commercial/"
+    },
+    "ZH": {
+      "code": "ZH",
+      "title": "Technology and innovation employment hubs",
+      "summary": "Employment areas focused on high-technology and innovation businesses, with large buildings on large, heavily landscaped sites. The intent is to strengthen these job centers while preserving substantial greenery.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=718",
+      "sourceScope": "subtype",
+      "evidence": "Le type de milieux « Zone de haute technologie » ZH constitue un pôle d’emplois axé sur les entreprises de haute technologie et d’innovation. Il se compose de bâtiments de grand gabarit sur des terrains de grande superficie où une forte végétalisation est préconisée. Dans ce type de milieux, la réglementation applicable vise à consolider et à développer ces secteurs d’emplois par une intensification de l’occupation. Elle assure l’implantation de bâtiments de grand gabarit par des normes de nombre d’étages, d’emprise au sol et de superficie de plancher minimale. La préservation de la végétation est assurée par des normes flexibles d’implantation, combinées à un pourcentage de surfaces végétalisées à maintenir.",
+      "pdfPage": 718,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-12-zh-haute-technologie/"
+    },
+    "ZI.1": {
+      "code": "ZI.1",
+      "title": "Light industry, wholesale and warehousing",
+      "summary": "Industrial areas with large building footprints and a mix of light industry, wholesale activity and warehousing, notably in Parc Industriel Centre. The focus is retaining industrial land, using it more intensively and buffering nearby quieter areas.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=729",
+      "sourceScope": "subtype",
+      "evidence": "Le type de milieux de la catégorie « Zone industrielle » ZI.1 est caractérisé par des ensembles de bâtiments industriels de forte emprise au sol et accueillant une diversité d’activités industrielles légères, commerciales de gros et d’entreposage. Il se situe généralement à l’intérieur de l’affectation « industrielle » du SADR et se localise principalement au niveau du Parc Industriel Centre. Dans ce type de milieux, la réglementation applicable vise à assurer une intensification de l’occupation du sol et à limiter les usages non industriels de manière à préserver les espaces dédiés. Elle vise une bonne cohabitation avec des types de milieux de plus faible intensité avec des normes concernant les bandes tampons.",
+      "pdfPage": 729,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-13-zi-industriel/"
+    },
+    "ZI.2": {
+      "code": "ZI.2",
+      "title": "Light industry and heavier commercial activity",
+      "summary": "Industrial areas combining light industry, wholesale activity and heavier commercial operations. The intent is to allow business expansion while protecting industrial land and managing impacts on surrounding areas.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=738",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « ZI Zone industrielle », le type de milieux ZI.2 est caractérisé par des ensembles de bâtiments industriels accueillant une diversité d’activités industrielles légères, commerciales de gros et commerciales lourdes. Il se situe géné ralement à l’intérieur de l’affectation « industrielle » du SADR. Dans ce type de milieux, la réglementation applicable vise à offrir une flexibilité favorable à l’expansion des entreprises et à limiter les usages non industriels de manière à préserver les espaces dédiés. Elle vise également une bonne cohabitation avec des types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons.",
+      "pdfPage": 738,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-13-zi-industriel/"
+    },
+    "ZI.3": {
+      "code": "ZI.3",
+      "title": "Heavy industrial areas",
+      "summary": "Areas characterized by heavy industry, mainly in eastern Laval. The focus is recognizing demanding industrial activities and managing their relationship with lower-intensity neighboring areas.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=747",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « ZI Zone industrielle », le type de milieux ZI.3 est caractérisé par des ensembles industriels lourds. Il correspond à l’affectation « industrielle » du SADR et se localise principalement dans la partie est du territoire. Dans ce type de milieux, la réglementation applicable vise à offrir une flexibilité permettant des activités industrielles contraignantes. Elle vise également une bonne cohabitation avec des types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons.",
+      "pdfPage": 747,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-13-zi-industriel/"
+    },
+    "ZE": {
+      "code": "ZE",
+      "title": "Quarries, sand pits and extraction sites",
+      "summary": "Quarries, sand pits and other industrial extraction sites with specialized operating layouts. The intent recognizes these activities and uses buffers to manage their relationship with nearby lower-intensity areas.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=756",
+      "sourceScope": "subtype",
+      "evidence": "Le type de milieux « Zone d’extraction » ZE est caractérisé par les activités relatives aux carrières, sablières et autres sites industriels d’extraction qu’on retrouve sur le territoire. Ils correspondent à l’affectation « industrielle d’extraction » du SADR. Dans ce type de milieux, la réglementation applicable vise à reconnaître ces activités et leurs aménagements particuliers. Elle vise également une bonne cohabitation avec les types de milieux de plus faible intensité par l’application de normes concernant les bandes tampons.",
+      "pdfPage": 756,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-14-ze-extraction/"
+    },
+    "ZP": {
+      "code": "ZP",
+      "title": "Public-service infrastructure",
+      "summary": "Public or semi-public buildings, equipment and infrastructure providing public services. Their layout, scale and architecture may differ from neighboring properties because of their specialized civic role.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=765",
+      "sourceScope": "subtype",
+      "evidence": "Le type de milieux « Zone de services publics » ZP a pour objectif de reconnaitre la particularité de certains bâtiments et espaces à vocation publique ou semi-publique et de leur permettre de se distinguer de leur milieu en ayant une implanta tion, un gabarit et une architecture distincts. Ce type de milieux est caractérisé par des bâtiments et des activités associés à des équipements et des infrastructures de services publics. Dans ce type de milieux, la réglementation applicable vise à offrir la flexibilité nécessaire pour répondre à ce caractère exceptionnel.",
+      "pdfPage": 765,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-15-zp-service-public/"
+    },
+    "SZD.1": {
+      "code": "SZD.1",
+      "title": "Large vacant sites awaiting area planning",
+      "summary": "Large vacant sites whose overall planning is not yet finalized. The intent calls for coordinated, sustainable area planning through the comprehensive development plan (PAE) process and public consultation, with attention to important natural features.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=774",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « SZD Secteur de zonage différé », le type de milieux SZD.1 est caractérisé par la présence d’un ou de plusieurs terrains vacants de grande superficie pour lesquels la planification n’a pas encore été finalisée. Dans ce type de milieux, la réglementation applicable vise à favoriser une planification d’ensemble cohérente et répondant aux objectifs de la Ville en matière de développement durable. Ces sites sont assujettis à la procédure relative aux PAE. À cet effet, un PAE devra respecter les objectifs et critères prévus au chapitre 2 du titre 8 et faire l’objet d’une démarche de consultation publique. L’objectif est d’assurer le déploiement de quartiers exemplaires sur le territoire lavallois en respectant et mettant en valeur les principales composantes naturelles du milieu.",
+      "pdfPage": 774,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-16-secteur-de-zonage-diff%C3%A9r%C3%A9/"
+    },
+    "SZD.2": {
+      "code": "SZD.2",
+      "title": "Commercial sites awaiting redevelopment planning",
+      "summary": "Commercial land and buildings with potential for development or redevelopment, but unfinished area planning. The intent calls for coordinated, sustainable planning through the comprehensive development plan (PAE) process and public consultation; it does not approve a redevelopment project.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=783",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « SZD Secteur de zonage différé », le type de milieux SZD.2 est caractérisé par la présence de terrains et de bâtiments commerciaux qui offrent une opportunité de développement ou de redéveloppement, mais pour lesquels la planification n’a pas encore été finalisée. Dans ce type de milieux, la réglementation applicable vise à favoriser une planification d’ensemble cohérente et répondant aux objectifs de la Ville en matière de développement durable. Ces sites sont assujettis à la procédure relative aux PAE. À cet effet, un PAE devra respecter les objectifs et critères prévus au chapitre 2 du titre 8 et faire l’objet d’une démarche de consultation publique. L’objectif est d’assurer le déploiement de quartiers exemplaires sur le territoire lavallois en respectant et mettant en valeur les principales composantes naturelles du milieu.",
+      "pdfPage": 783,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-16-secteur-de-zonage-diff%C3%A9r%C3%A9/"
+    },
+    "SZD.3": {
+      "code": "SZD.3",
+      "title": "Industrial sites awaiting redevelopment planning",
+      "summary": "Industrial land and buildings with potential for development or redevelopment, but unfinished area planning. The focus is coordinated, sustainable planning through the comprehensive development plan (PAE) process and public consultation before an overall neighborhood vision is settled.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=791",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « SZD Secteur de zonage différé », le type de milieux SZD.3 est caractérisé par la présence de terrains et de bâtiments industriels qui offrent une opportunité de développement ou de redéveloppement, mais pour lesquels la planification n’a pas encore été finalisée. Dans ce type de milieux, la réglementation applicable vise à favoriser une planification d’ensemble cohérente et répondant aux objectifs de la Ville en matière de développement durable. Ces sites sont assujettis à la procédure relative aux PAE. À cet effet, un PAE devra respecter les objectifs et critères prévus au chapitre 2 du titre 8 et faire l’objet d’une démarche de consultation publique. L’objectif est d’assurer le déploiement de quartiers exemplaires sur le territoire lavallois en respectant et mettant en valeur les principales composantes naturelles du milieu.",
+      "pdfPage": 791,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-16-secteur-de-zonage-diff%C3%A9r%C3%A9/"
+    },
+    "SZD.4": {
+      "code": "SZD.4",
+      "title": "Quarry sites awaiting future planning",
+      "summary": "Quarries and related sites with potential for future development or redevelopment, but unfinished planning. The intent calls for a coordinated, sustainable area plan through the comprehensive development plan (PAE) process and public consultation, not an automatic right to redevelop.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=799",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « SZD Secteur de zonage différé », le type de milieux SZD.4 est caractérisé par la présence de carrières et d’activités connexes qui offrent une opportunité de développement ou de redéveloppement, mais pour lesquelles la planification n’a pas encore été finalisée. Dans ce type de milieux, la réglementation applicable vise à favoriser une planification d’ensemble cohérente et répondant aux objectifs de la Ville en matière de développement durable. Ces sites sont assujettis à la procédure relative aux PAE. À cet effet, un PAE devra respecter les objectifs et critères prévus au chapitre 2 du titre 8 et faire l’objet d’une démarche de consultation publique. L’objectif est d’assurer le déploiement de quartiers exemplaires sur le territoire lavallois.",
+      "pdfPage": 799,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-16-secteur-de-zonage-diff%C3%A9r%C3%A9/"
+    },
+    "SZD.5": {
+      "code": "SZD.5",
+      "title": "Golf-course land awaiting future planning",
+      "summary": "Golf-course sites with potential for future development or redevelopment, but unfinished planning. The intent calls for coordinated, sustainable planning through the comprehensive development plan (PAE) process and public consultation, respecting important natural features.",
+      "sourceUrl": "https://www.laval.ca/wp-content/uploads/2026/06/cdu-1-reglement-2026-06-08.pdf#page=808",
+      "sourceScope": "subtype",
+      "evidence": "De la catégorie « SZD Secteur de zonage différé », le type de milieux SZD.5 est caractérisé par la présence de terrains de golf qui offrent une opportunité de développement ou de redéveloppement, mais pour lesquels la planification n’a pas encore été finalisée. Dans ce type de milieux, la réglementation applicable vise à favoriser une planification d’ensemble cohérente et répondant aux objectifs de la Ville en matière de développement durable. Ces sites sont assujettis à la procédure relative aux PAE. À cet effet, un PAE devra respecter les objectifs et critères prévus au chapitre 2 du titre 8 et faire l’objet d’une démarche de consultation publique. L’objectif est d’assurer le déploiement de quartiers exemplaires sur le territoire lavallois, en respectant et mettant en valeur les principales composantes naturelles du milieu.",
+      "pdfPage": 808,
+      "chapterUrl": "https://info-reglements.laval.ca/consultation/cdu/titre-7-types-de-milieux/chapitre-16-secteur-de-zonage-diff%C3%A9r%C3%A9/"
+    }
+  }
+}
