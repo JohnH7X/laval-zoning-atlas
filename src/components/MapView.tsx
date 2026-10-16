@@ -3,7 +3,9 @@ import maplibregl, { type Map as LibreMap, type ExpressionSpecification, type Fi
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { FAMILIES, type MapPosition, type ViewState, type Zone } from '../lib/types';
 import { getJSON } from '../lib/data';
-import type { FeatureCollection, Polygon } from 'geojson';
+import type { FeatureCollection, Polygon, Point, GeoJsonProperties } from 'geojson';
+
+interface AssessmentIndex { files: string[]; featureCount: number }
 
 interface Props {
   initial: ViewState;
@@ -12,6 +14,7 @@ interface Props {
   zoneFilter: string;
   activityTypes: string[] | null;
   addressCoordinates: [number, number] | null;
+  assessmentVisible: boolean;
   visible: boolean;
   opacity: number;
   focus: { coordinates: [number, number]; zoom: number; serial: number } | null;
@@ -27,6 +30,7 @@ export default function MapView(props: Props) {
   const [ready, setReady] = useState(false);
   const [message, setMessage] = useState('Loading municipal zoning…');
   const marker = useRef<maplibregl.Marker | null>(null);
+  const assessmentPopup = useRef<maplibregl.Popup | null>(null);
 
   useEffect(() => {
     let active = true;
@@ -84,8 +88,46 @@ export default function MapView(props: Props) {
       }
     }
     void boot();
-    return () => { active = false; marker.current?.remove(); instance?.remove(); map.current = null; };
+    return () => { active = false; marker.current?.remove(); assessmentPopup.current?.remove(); instance?.remove(); map.current = null; };
   }, []);
+
+  useEffect(() => {
+    const m = map.current;
+    if (!m || !ready) return;
+    const sourceId = 'laval-assessment-units';
+    const layerId = 'assessment-unit-points';
+    if (!props.assessmentVisible) {
+      if (m.getLayer(layerId)) m.setLayoutProperty(layerId, 'visibility', 'none');
+      return;
+    }
+    if (m.getSource(sourceId)) {
+      if (m.getLayer(layerId)) m.setLayoutProperty(layerId, 'visibility', 'visible');
+      return;
+    }
+    let cancelled = false;
+    void getJSON<AssessmentIndex>('/data/assessment-units/index.json').then(async index => {
+      const collections = await Promise.all(index.files.map(file => getJSON<FeatureCollection<Point, GeoJsonProperties>>(`/data/assessment-units/${file}`)));
+      if (cancelled || !map.current) return;
+      const data: FeatureCollection<Point, GeoJsonProperties> = { type: 'FeatureCollection', features: collections.flatMap(collection => collection.features) };
+      m.addSource(sourceId, { type: 'geojson', data });
+      m.addLayer({ id: layerId, type: 'circle', source: sourceId, paint: {
+        'circle-color': '#254b3c', 'circle-opacity': 0.78,
+        'circle-radius': ['interpolate', ['linear'], ['zoom'], 9, 2.5, 14, 5.5],
+        'circle-stroke-color': '#f8f6ef', 'circle-stroke-width': 1,
+      } });
+      m.on('mouseenter', layerId, () => { m.getCanvas().style.cursor = 'pointer'; });
+      m.on('mouseleave', layerId, () => { m.getCanvas().style.cursor = ''; });
+      m.on('click', layerId, event => {
+        const p = event.features?.[0]?.properties || {};
+        const esc = (value: unknown) => String(value ?? '—').replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch] || ch));
+        const money = (value: unknown) => value == null || value === '' ? '—' : new Intl.NumberFormat('en-CA', { style: 'currency', currency: 'CAD', maximumFractionDigits: 0 }).format(Number(value));
+        const area = (value: unknown) => value == null || value === '' ? '—' : `${Number(value).toLocaleString('en-CA')} m²`;
+        assessmentPopup.current?.remove();
+        assessmentPopup.current = new maplibregl.Popup({ closeButton: true, maxWidth: '310px' }).setLngLat(event.lngLat).setHTML(`<div class="assessment-popup"><div class="popup-kicker">ASSESSMENT UNIT · 2026 ROLL</div><strong>${esc(p.address || 'Laval assessment unit')}</strong><dl><div><dt>Total assessed value</dt><dd>${money(p.totalValue)}</dd></div><div><dt>Land / building</dt><dd>${money(p.landValue)} / ${money(p.buildingValue)}</dd></div><div><dt>Prior-roll total</dt><dd>${money(p.previousValue)}</dd></div><div><dt>Land area</dt><dd>${area(p.landAreaM2)}</dd></div><div><dt>Year built</dt><dd>${esc(p.yearBuilt)}${p.yearBuiltStatus === 'E' ? ' (estimated)' : ''}</dd></div><div><dt>Housing units</dt><dd>${esc(p.housingUnits)}</dd></div></dl><small>Reference market date: ${esc(String(p.marketReferenceDate || '').slice(0, 10))}. This is an assessment value, not a tax bill or tax balance.</small></div>`).addTo(m);
+      });
+    }).catch(() => undefined);
+    return () => { cancelled = true; };
+  }, [ready, props.assessmentVisible]);
 
   useEffect(() => {
     const m = map.current;

@@ -1,15 +1,5 @@
 # Laval Zoning Atlas
 
-**Live map: https://johnh7x.github.io/laval-zoning-atlas/**
-
-Independent, read-only map of Laval, Québec zoning (milieu types and zones) with address search, activity search, and public assessment values. Not an official City of Laval tool; a screening aid only, not a legal determination of what is permitted at a property. Always verify on the City's official [Info-règlements](https://info-reglements.laval.ca/) tool.
-
-Data: Ville de Laval open data, licensed CC BY 4.0, via Données Québec. Basemap: OpenFreeMap / OpenMapTiles / OpenStreetMap.
-
----
-
-# Laval Zoning Atlas
-
 Read-only static browser map of City of Laval zoning. No CRM, database, accounts, application backend or automatic data refresh. This is an independent screening map, not a cadastral plan or a building-permission determination.
 
 ## Run and build
@@ -101,3 +91,11 @@ If `npm run dev` stalls on your machine, build (`npm run build`) and serve the s
 ## Use-status labels
 
 `A` = baseline group authorized as of right; `C` = conditional approval; `A+C` = the official table lists mixed as-of-right and conditional components, so the specific activity needs review. None confirms permission at a property.
+
+## Toggleable assessment-unit layer (2026 roll)
+
+The atlas includes an optional **Assessment units** layer. It is off by default and loads geographic shards only when enabled. It draws one point per Laval evaluation unit from MAMH's 2026 georeferenced open roll; it does **not** draw parcel boundaries. Clicking a point shows the address, total/land/building/prior assessed values, land area, year built, housing units and market-reference date.
+
+The 2026 GeoPackage's spatial table is `rol_unite_p_2026` with `MULTIPOINT` geometry. Its separate attribute tables include `b05v_unite_evaln_2026`, address components, fiscal-distribution fields and a lot/cadastre table. Cadastral information, owner names and owner mailing addresses are redacted or excluded from this public map. Annual tax bills and outstanding balances are not present; use Laval's official tax lookup for those.
+
+Source: [MAMH/Québec property assessment open data](https://www.donneesquebec.ca/recherche/dataset/roles-d-evaluation-fonciere-du-quebec), 2026 roll, market reference July 1, 2023, CC BY 4.0.
